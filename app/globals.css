@@ -155,3 +155,7 @@ body {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+.hero_background{
+  background-image: url('../public/pattern.png');
+}
