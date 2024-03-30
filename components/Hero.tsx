@@ -8,7 +8,7 @@ const Hero = () => {
 
       <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
         <Image 
-          src="/camp.svg"
+          src="./camp.svg"
           alt="camp"
           width={50}
           height={50}
